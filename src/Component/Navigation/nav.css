@@ -1,0 +1,12 @@
+.nav-style {
+  text-decoration: none;
+}
+.activeee {
+  height: 100px;
+  background-color: black !important;
+}
+.fixed-top {
+  background-color: black !important;
+  height: auto !important;
+  width: auto;
+}
